@@ -1,0 +1,7 @@
+.✔ upgrade from next js 12 to 13.4
+.✔ add Redux State Manager
+.✔ Fix feature section
+.✔ remove yarn and stick with npm
+.✔ work on dashboard
+.✔ prisma ORM with GraphQl
+.✔ Implement Micro SaaS Architicture
